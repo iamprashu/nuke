@@ -48,7 +48,8 @@ Now Download Nuke.zip and extract it;
 # Set a Username & Password.
 
 Stop Nuke : 
->>>>>>>>>>Commands<<<<<<<< 
+Commands
+
 1.pm2 stop index
 2.Open maindb.json in a text editor
 under admin
