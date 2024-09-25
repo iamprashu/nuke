@@ -1,4 +1,4 @@
-NUKE - The Fuc***g Android Remote Addmin tool
+NUKE - The Android RAT
 
 A cloud based remote android managment suite, Runs with node js
 
@@ -50,13 +50,13 @@ Now Download Nuke.zip and extract it;
 Stop Nuke : 
 Commands
 
-1.pm2 stop index
+1.pm2 stop index<br>
 2.Open maindb.json in a text editor
-under admin
-set the username as plain text
-set the password as a LOWERCASE MD5 hash
-save the file
-run pm2 restart all
-in your browser navigate to http://<your local ip>:1510
+under admin<br>
+set the username as plain text<br>
+set the password as a LOWERCASE MD5 hash<br>
+save the file<br>
+run pm2 restart all<br>
+in your browser navigate to http://<your local ip>:1510<br>
   
   Do it ::::
